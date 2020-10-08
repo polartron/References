@@ -18,7 +18,7 @@ https://gafferongames.com/post/snapshot_interpolation/
 ## Misc Games
 
 ### Flow Field Pathfinding
-A clear and consise guide on how Flow Fields work. Useful for simulating large amounts of units like crowds and units in an RTS. 
+A clear and concise guide on how Flow Fields work. Useful for simulating large amounts of units like crowds and AI in an RTS. 
 https://leifnode.com/2013/12/flow-field-pathfinding/
 
 ### Hexagonal Grids
