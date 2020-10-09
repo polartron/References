@@ -1,5 +1,5 @@
 # References
-Links to resources I find extra helpful. 
+Links to resources I find useful
 
 ## Networking
 
