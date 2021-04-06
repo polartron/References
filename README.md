@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=W3aieHjyNvw
 https://www.youtube.com/watch?v=k6JTaFE7SYI  
 https://fabiensanglard.net/quake3/network.php  
 https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking  
+https://www.youtube.com/watch?v=Z9X4lysFr64
 https://gafferongames.com/post/state_synchronization/  
 https://gafferongames.com/post/snapshot_compression/  
 https://gafferongames.com/post/snapshot_interpolation/  
